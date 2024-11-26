@@ -3,14 +3,14 @@
 Hello, I'm
 
 .home__name
-Ansel Klee
+Aditya Kumar
 
 .home__education
-Frontend Developer
+QA Test Engineer
 
 .home__social-link
-https://www.linkedin.com/
-https://github.com/
+https://www.linkedin.com/srw_aditya
+https://github.com/srw_aditya
 https://dribbble.com/
 
 .home__scroll-name
@@ -32,7 +32,7 @@ Support
 Online 24/7
 
 .about__description
-Frontend developer, I create web pages with UI / UX user interface, 
+QA Test Engineer, I create web pages with UI / UX user interface, 
 I have years of experience and many clients are happy 
 with the projects carried out.
 
@@ -42,8 +42,7 @@ My abilities
 My Experience
 
 .skills__title
-Frontend developer
-Backend Developer
+QA Test Engineer
 
 .skills__name | .skills__level
 HTML
@@ -53,7 +52,7 @@ CSS
 Advanced
 
 JavaScript
-Intermediate
+Advanced
 
 Bootstrap
 Intermediate
@@ -64,20 +63,26 @@ Intermediate
 React
 Intermediate
 
-PHP
-Intermediate
-
 Node Js
 Basic
 
 Python
-Intermediate
+Advanced
 
 MySQL
-Intermediate
+Advanced
 
-Firebase
-Intermediate
+Playwrights
+Advanced
+
+Selenium
+Advanced
+
+Jmeter
+Advanced
+
+Robot Framework
+Advanced
 
 ========== SERVICES ==========
 .section__subtitle | .section__title
@@ -85,18 +90,14 @@ My Services
 What I Offer
 
 .services__title
-Product <br> Designer
-
-Ui/Ux <br> Designer
-
-Visual <br> Designer
+QA <br> Test Engineer
 
 .services__modal-description
-Service with more than 3 years of experience. 
+Service with more than 8 years of experience. 
 Providing quality work to clients and companies.
 
 .services__modal-info
-I develop the user interface.
+I develop the QA Test Engineer.
 
 Web page development.
 
@@ -135,11 +136,7 @@ My clients say
 Testimonial
 
 .testimonial__name
-Jhon Doe
-
-Paula Vusy
-
-Sara Cill
+Aditya Kumar
 
 .testimonial__description
 A really good job, all aspects of the project were 
@@ -158,10 +155,10 @@ Write me your project
 
 .contact__card-title | .contact__card-data
 Email
-user@gmail.com
+srw_aditya@gmail.com
 
 Whatsapp
-999-888-777
+789-946-3519
 
 Messenger
 user.fb123
@@ -175,7 +172,7 @@ https://m.me/bedimcode
 
 ========== FOOTER ==========
 .footer__title
-Ansel
+Aditya
 
 .footer__link
 About

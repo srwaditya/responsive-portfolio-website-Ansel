@@ -109,19 +109,7 @@ img {
   height: auto;
 }
 
-/*=============== THEME ===============*/
 
-
-/*========== Variables Dark theme ==========*/
-
-
-/*========== 
-    Color changes in some parts of 
-    the website, in light theme
-==========*/
-
-
-/*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 968px;
   margin-left: 1rem;
@@ -157,63 +145,3 @@ img {
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
 }
-
-/*=============== HEADER & NAV===============*/
-
-
-/* Active link */
-
-
-/* Change background header */
-
-
-/*=============== HOME ===============*/
-
-
-/*=============== BUTTONS ===============*/
-
-
-/*=============== ABOUT ===============*/
-
-
-/*=============== SKILLS ===============*/
-
-
-/*=============== SERVICES ===============*/
-
-
-/* Services modal */
-
-
-/*Active modal*/
-
-
-/*=============== WORK ===============*/
-
-
-/* Active item work*/
-
-
-/*=============== TESTIMONIAL ===============*/
-
-
-/* Swiper class */
-
-
-/*=============== CONTACT ===============*/
-
-
-/*=============== FOOTER ===============*/
-
-
-/*=============== SCROLL BAR ===============*/
-
-
-/*=============== BREAKPOINTS ===============*/
-/* For small devices */
-
-
-/* For medium devices */
-
-
-/* For large devices */
